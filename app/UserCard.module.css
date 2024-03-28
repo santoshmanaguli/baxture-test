@@ -1,0 +1,24 @@
+.avatarImage{
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  margin: auto;
+  cursor: pointer;
+}
+
+.cardTitle{
+  margin-top: 10px;
+}
+
+.cardContainer{
+  width: 23.9%;
+  margin: 10px;
+}
+
+.btn{
+  width: 47%;
+}
+
+.onHover:hover{
+  text-decoration: underline;
+}
